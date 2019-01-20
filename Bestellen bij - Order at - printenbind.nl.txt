@@ -7,4 +7,6 @@ https://www.printenbind.nl/
 Deze opties werken voor de Chase18.pdf file.
 losbladig, eigen formaat (135 x 178 mm), dubbelzijdig, full color, tot aan rand bedrukken, afgeronde hoeken, nevertear 270
 
-De optie nevertear 125 kan ook, maar is wat flodderig.
+De optie nevertear 125 kan ook, maar is wat flodderig.'
+
+Voor de andere files is de maat 127x178 mm
