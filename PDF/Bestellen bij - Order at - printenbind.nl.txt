@@ -4,7 +4,7 @@ Voor de eerste kaarten (Chase18.pdf) is er goede ervaring met printenbind in Ams
 
 https://www.printenbind.nl/
 
-Deze opties werken voor de Chase18.pdf file.
+Deze opties werken voor de ChaseCards.pdf file.
 losbladig, eigen formaat (135 x 178 mm), dubbelzijdig, full color, tot aan rand bedrukken, afgeronde hoeken, nevertear 270. Wil je goedkoper afdrukken kies dan 300 grams papier.
 
 De optie nevertear 125 kan ook, maar is wat flodderig.'
