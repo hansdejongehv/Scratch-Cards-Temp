@@ -1,0 +1,1 @@
+These cards have been translated by Sjouke de Boer.
