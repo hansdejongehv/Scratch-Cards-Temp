@@ -1,0 +1,18 @@
+In deze map staan de Nederlandse vertalingen 
+van de Scratch 3.0 kaarten in pdf vorm.
+
+Dit zijn de vertalingen van de eerste 5 sets. 
+Ze zullen later beschikbaar worden op de 
+officiele Scratch site.
+
+Er staat ook informatie hoe ze af te drukken.
+
+De powerpoint originelen waaruit de PDF files
+gegenereerd zijn staan in een map naast deze map.
+
+Vier van vijf files zijn ook samen in een enkele
+PDF beschikbaar. Dat kan makkelijk zijn als ze 
+allemaal moeten worden afgedrukt.
+
+Tot slot staat er een Scratch-les voor de Weekendschool.
+Die is niet gerelateerd.
